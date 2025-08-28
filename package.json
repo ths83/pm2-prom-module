@@ -35,7 +35,7 @@
         "prefix": "pm2"
     },
     "devDependencies": {
-        "@types/node": "^18.19.50",
+        "@types/node": "^12.20.55",
         "@types/pidusage": "^2.0.5",
         "typescript": "^5.3.3"
     },
