@@ -1,9 +1,8 @@
 {
     "compilerOptions": {
-        "target": "ES2015",
-        "module": "Node16",
-        "lib": ["ES2017", "DOM"],
-        // "moduleResolution": "Node16",
+        "target": "ES2019",
+        "module": "CommonJS",
+        "lib": ["ES2019", "DOM"],
         "rootDir": "./",
         "allowSyntheticDefaultImports": true,
         "importHelpers": false,
